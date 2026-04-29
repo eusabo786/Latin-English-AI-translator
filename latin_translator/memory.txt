@@ -1,0 +1,10 @@
+word=cat | latin=feles | type=noun | meaning=small domestic feline | synonyms=feles;catta | confidence=0.80
+
+word=dog | latin=canis | type=noun | meaning=domestic canine | synonyms=canis | confidence=0.85
+
+word=love | latin=amor | type=noun | meaning=deep affection | synonyms=caritas;dilectio | confidence=0.90
+word=girl | latin=puella | type=unknown | meaning=female child, adolescent, or young woman | synonyms=puella;femella;pusa;puera | confidence=1.0
+
+word=war | latin=bellum | type=unknown | meaning=state of armed conflict between groups | synonyms=bellum;mars;cassida;cassis | confidence=1.0
+
+word=woman | latin=mulier | type=unknown | meaning=any female human | synonyms=mulier;femina;foemina;marita | confidence=1.0
